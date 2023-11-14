@@ -11,7 +11,6 @@ public class Principal {
 			a.insert(i);
 		}
 		try {
-			a.postfixSearch();
 			a.remove('m');
 			a.prefixSearch();
 			a.infixSearch();
